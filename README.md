@@ -16,4 +16,7 @@ This project is a Fraud Detection System built using machine learning algorithms
 - **NumPy**: For numerical operations and array handling.
 - **Matplotlib/Seaborn**: For data visualization.
 - **Jupyter Notebook/VS Code**: For writing and testing the code.
+  
+## Credit Card Fraud Detection Dataset
+- You can download the Credit Card Fraud Prediction dataset from Kaggle here: [Credit Card Fraud Prediction Dataset](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction)
 
